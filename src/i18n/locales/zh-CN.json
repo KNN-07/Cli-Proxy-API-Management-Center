@@ -116,7 +116,11 @@
     "view_detailed_usage": "查看详细统计",
     "edit_settings": "编辑设置",
     "available_models": "可用模型",
-    "available_models_desc": "所有提供商的模型总数"
+    "available_models_desc": "所有提供商的模型总数",
+    "quota_overview": "配额概览",
+    "no_quota_data": "暂无配额数据",
+    "load_quota_hint": "前往配额管理页面加载配额信息",
+    "credentials_count": "{{count}} 个凭证"
   },
   "basic_settings": {
     "title": "基础设置",

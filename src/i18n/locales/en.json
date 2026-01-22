@@ -116,7 +116,11 @@
     "view_detailed_usage": "View Detailed Stats",
     "edit_settings": "Edit Settings",
     "available_models": "Available Models",
-    "available_models_desc": "Total models from all providers"
+    "available_models_desc": "Total models from all providers",
+    "quota_overview": "Quota Overview",
+    "no_quota_data": "No quota data available",
+    "load_quota_hint": "Visit Quota Management to load quota information",
+    "credentials_count": "{{count}} credentials"
   },
   "basic_settings": {
     "title": "Basic Settings",
